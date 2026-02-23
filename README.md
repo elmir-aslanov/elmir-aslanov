@@ -49,7 +49,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWExcWpwaWpueWlncDVqNGRqbWt3c2R5YTljMXNmZGs3cHp4NDVzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fl3jw1xFrpmxGUrWzS/giphy.gif"  />
 
 
 ###
